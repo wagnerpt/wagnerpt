@@ -42,10 +42,10 @@ Gestão | Desenvolvimento | Consórcio | Scrum Master CSM™ | Kanban KMP™ | M
 </center>
 
 #### 📚 Estudando:
-- MBA em Clouding Computing e Devops (Impacta)
 - Pós-Tech Arquitetura de Sistemas .Net com Azure (FIAP)
 
 #### 🏆 Formação
+- MBA em Clouding Computing e Devops (Impacta)
 - Análise e Desenvolvimento de Sietemas (FIAP)
 - Ciências da Computação (UNIFACCAMP)
 
