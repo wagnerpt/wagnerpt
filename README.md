@@ -43,10 +43,10 @@ Gestão | Desenvolvimento | Consórcio | Scrum Master CSM™ | Kanban KMP™ | M
 
 #### 📚 Estudando:
 - MBA em Engenharia de Software (USP-ESALQ)
-- Pós-Tech Arquitetura de Sistemas .Net com Azure (FIAP)
 
 #### 🏆 Formação
 - MBA em Clouding Computing e Devops (Impacta)
+- Pós-Tech Arquitetura de Sistemas .Net com Azure (FIAP)
 - Análise e Desenvolvimento de Sietemas (FIAP)
 - Ciências da Computação (UNIFACCAMP)
 
